@@ -1,6 +1,6 @@
 ## Bincrafters
 *Your Open-Source Devops Team for Conan and C/C++*  
-![Image](./presentations/swampup-2018/assets/BcCube128.png)
+![Image](./assets/BcCube128.png)
 
 ---
 ### Find Us Online
@@ -62,7 +62,7 @@ Jerry Wiltse
 
 ---
 ### History and Motivation
-![Image](./presentations/swampup-2018/assets/left-exit-boost.jpg)
+![Image](./assets/left-exit-boost.jpg)
 
 ---
 ### The Conditions
@@ -132,7 +132,7 @@ Jerry Wiltse
 
 ---
 ### Why keep going 
-![Image](./presentations/swampup-2018/assets/complex_builds_everywhere.jpg)
+![Image](./assets/complex_builds_everywhere.jpg)
 
 ---
 ### Envoy - A Poster Child
@@ -146,11 +146,11 @@ https://blog.envoyproxy.io/external-c-dependency-management-in-bazel-dd37477422f
 
 ---
 ### Envoy -  A Visual Perspective
-![Image](./presentations/swampup-2018/assets/EnvoyBuild.png)
+![Image](./assets/EnvoyBuild.png)
 
 ---
 ### Why keep going 
-![Image](./presentations/swampup-2018/assets/set-of-skill.jpg)
+![Image](./assets/set-of-skill.jpg)
 
 ---
 ### Why keep going 
@@ -267,7 +267,7 @@ https://blog.envoyproxy.io/external-c-dependency-management-in-bazel-dd37477422f
 * 4 x 3 = 12 macOS builds	
 
 ---
-![CI Builds](./presentations/swampup-2018/assets/counting-ci-jobs.PNG)  
+![CI Builds](./assets/counting-ci-jobs.PNG)  
 (Like 1000 builds)
 
 ---
